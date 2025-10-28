@@ -6,10 +6,10 @@
 - Explore my repositories or check out my pinned ones to see my latest and most popular work.
 
 ## Code Stats
-![Ujjwal  GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjwal2061&show_icons=true&theme=dark)
+![Ujjwal  GitHub Stats](https://github-readme-stats.vercel.app/api?username=isuzwal&show_icons=true&theme=dark)
 
 ## Visitor count
-![Visitor Count](https://count.getloli.com/get/isuzwla?theme=rule34)
+![Visitor Count](https://count.getloli.com/get/@isuzwla?theme=rule34)
 
 ## Get in touch
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel)](https://uzwal.me)
