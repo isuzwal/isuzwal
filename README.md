@@ -12,7 +12,7 @@
 ![Visitor Count](https://count.getloli.com/get/@isuzwla?theme=rule34)
 
 ## Get in touch
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel)](https://uzwal.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel)](https://isuzwal.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ujjwal-gaihre-9719ba289/)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://https://x.com/isuzwal)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/isuzwal)
