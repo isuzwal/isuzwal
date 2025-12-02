@@ -1,4 +1,4 @@
- # Hi there, I'm Ujwal Gaihre .
+ # Hi there, I'm Ujwal Gaihre.
  **Software Engineer**
 
 # About Me
