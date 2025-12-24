@@ -1,9 +1,9 @@
  # Hi there, I'm Ujwal Gaihre.
- **Software Engineer**
+ **Fullstack developer**
 
 # About Me
-  - I'm an undergraduate Computer Science student  and  full-stack engineer who loves building and shipping things..
-- Explore my repositories or check out my pinned ones to see my latest and most popular work.
+  - I'm an undergraduate Computer Science student  and  Fullstack Developer who loves building and shipping things..
+ - Explore my repositories or check out my pinned ones to see my latest and most popular work.
 
 ## Code Stats
 ![uzwal  GitHub Stats](https://github-readme-stats.vercel.app/api?username=isuzwal&show_icons=true&theme=dark)
