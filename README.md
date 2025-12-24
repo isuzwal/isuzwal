@@ -6,7 +6,7 @@
 - Explore my repositories or check out my pinned ones to see my latest and most popular work.
 
 ## Code Stats
-![Ujjwal  GitHub Stats](https://github-readme-stats.vercel.app/api?username=isuzwal&show_icons=true&theme=dark)
+![uzwal  GitHub Stats](https://github-readme-stats.vercel.app/api?username=isuzwal&show_icons=true&theme=dark)
 
 ## Visitor count
 ![Visitor Count](https://count.getloli.com/get/@isuzwla?theme=rule34)
