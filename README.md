@@ -1,4 +1,4 @@
- # Hi there, I'm Ujwal Gaihre.
+ # Hi there, I'm Uzwal Gaihre.
  **Fullstack developer**
 
 # About Me
