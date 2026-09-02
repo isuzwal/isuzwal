@@ -10,7 +10,7 @@
 </pre>
 <br />
 <p align="center">
- <img src="assest/work.gif" width="300" alt="anime wave" />
+ <img src="assest/work.gif" width="600" alt="anime wave" />
 </p>
 <br />
 <p>
